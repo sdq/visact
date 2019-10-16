@@ -1,0 +1,8 @@
+.pane {
+    background: #ffffff;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 1px;
+    margin: 10px;
+    box-shadow: 2px 2px 2px #dddddd;
+}

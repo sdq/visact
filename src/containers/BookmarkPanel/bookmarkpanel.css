@@ -1,0 +1,14 @@
+.bookmark-panel {
+    border-left-style: solid;
+    border-width: 1px;
+    border-color: #e2e9f3;
+    padding-top: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.bookmark-list {
+    overflow: auto;
+    padding: 0px 0px;
+    height: 660px;
+}

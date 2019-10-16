@@ -1,0 +1,51 @@
+{
+  "name": "chart-sequencing-tool",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.19.8",
+    "axios": "^0.19.0",
+    "compassql": "^0.21.1",
+    "lodash": "^4.17.11",
+    "papaparse": "^5.0.0",
+    "react": "^16.8.6",
+    "react-beautiful-dnd": "^11.0.4",
+    "react-color": "^2.17.3",
+    "react-dnd": "^8.0.3",
+    "react-dnd-html5-backend": "^8.0.3",
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.1.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-vega": "^6.0.1",
+    "react-vega-lite": "^6.0.1",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "reselect": "^4.0.0",
+    "vega": "^5.4.0",
+    "vega-lib": "^4.4.0",
+    "vega-lite": "^2.7.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
