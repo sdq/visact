@@ -2,9 +2,8 @@
 
 (VegaLite version)
 
-Homepage: [https://sdq.github.io/visact](https://sdq.github.io/visact)
-
-Online demo: [http://visact.idvxlab.com/](demo link)
+Homepage: [https://sdq.github.io/visact](https://sdq.github.io/visact)<br>
+Online demo: [http://visact.idvxlab.com](link)
 
 ### Development
 
