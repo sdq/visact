@@ -1,4 +1,9 @@
-VisAct: a visualization design system based on semantic actions (VegaLite version)
+## VisAct: a visualization design system based on semantic actions
+
+(VegaLite version)
+
+Homepage: [https://sdq.github.io/visact](https://sdq.github.io/visact)
+Online demo: [http://visact.idvxlab.com/](demo link)
 
 ### Development
 
